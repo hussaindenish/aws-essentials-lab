@@ -89,5 +89,3 @@ sudo systemctl enable docker
 * Run the `ec2-instance-setup.sh` script to install Docker
 
 ---
-
-## 📌 Author
